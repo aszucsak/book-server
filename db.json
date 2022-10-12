@@ -1,0 +1,605 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "author": "Suzanne Collins",
+        "rating": " 4.32 avg rating — 7,599,648 ratings"
+      },
+      {
+        "id": 2,
+        "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+        "author": "J.K. Rowling",
+        "rating": " 4.50 avg rating — 3,017,214 ratings"
+      },
+      {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "rating": " 4.28 avg rating — 3,737,068 ratings"
+      },
+      {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": " 4.27 avg rating — 5,434,434 ratings"
+      },
+      {
+        "id": 5,
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "rating": " 4.39 avg rating — 2,249,790 ratings"
+      },
+      {
+        "id": 6,
+        "title": "Twilight (The Twilight Saga, #1)",
+        "author": "Stephenie Meyer",
+        "rating": " 3.63 avg rating — 5,906,837 ratings"
+      },
+      {
+        "id": 7,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "rating": " 3.97 avg rating — 3,387,182 ratings"
+      },
+      {
+        "id": 8,
+        "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+        "author": "C.S. Lewis",
+        "rating": " 4.27 avg rating — 598,269 ratings"
+      },
+      {
+        "id": 9,
+        "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "rating": " 4.61 avg rating — 124,521 ratings"
+      },
+      {
+        "id": 10,
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "rating": " 4.16 avg rating — 4,506,816 ratings"
+      },
+      {
+        "id": 11,
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "rating": " 4.30 avg rating — 1,160,610 ratings"
+      },
+      {
+        "id": 12,
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "rating": " 4.37 avg rating — 1,036,829 ratings"
+      },
+      {
+        "id": 13,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "rating": " 3.88 avg rating — 1,608,129 ratings"
+      },
+      {
+        "id": 14,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "rating": " 4.11 avg rating — 1,265,899 ratings"
+      },
+      {
+        "id": 15,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "rating": " 4.14 avg rating — 1,898,131 ratings"
+      },
+      {
+        "id": 16,
+        "title": "The Da Vinci Code (Robert Langdon, #2)",
+        "author": "Dan Brown",
+        "rating": " 3.89 avg rating — 2,185,809 ratings"
+      },
+      {
+        "id": 17,
+        "title": "Harry Potter and the Philosopher's Stone (Harry Potter, #1)",
+        "author": "J.K. Rowling",
+        "rating": " 4.47 avg rating — 8,818,348 ratings"
+      },
+      {
+        "id": 18,
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "rating": " 4.22 avg rating — 1,569,680 ratings"
+      },
+      {
+        "id": 19,
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "rating": " 4.14 avg rating — 1,886,349 ratings"
+      },
+      {
+        "id": 20,
+        "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "rating": " 4.06 avg rating — 520,559 ratings"
+      },
+      {
+        "id": 21,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": " 3.93 avg rating — 4,599,912 ratings"
+      },
+      {
+        "id": 22,
+        "title": "Divergent (Divergent, #1)",
+        "author": "Veronica Roth",
+        "rating": " 4.16 avg rating — 3,544,421 ratings"
+      },
+      {
+        "id": 23,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "rating": " 4.19 avg rating — 749,906 ratings"
+      },
+      {
+        "id": 24,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "rating": " 4.32 avg rating — 1,793,062 ratings"
+      },
+      {
+        "id": 25,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "rating": " 4.25 avg rating — 773,551 ratings"
+      },
+      {
+        "id": 26,
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "rating": " 3.69 avg rating — 2,635,262 ratings"
+      },
+      {
+        "id": 27,
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "rating": " 3.74 avg rating — 2,378,449 ratings"
+      },
+      {
+        "id": 28,
+        "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+        "author": "Rick Riordan",
+        "rating": " 4.29 avg rating — 2,546,593 ratings"
+      },
+      {
+        "id": 29,
+        "title": "City of Bones (The Mortal Instruments, #1)",
+        "author": "Cassandra Clare",
+        "rating": " 4.08 avg rating — 1,861,445 ratings"
+      },
+      {
+        "id": 30,
+        "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+        "author": "L.M. Montgomery",
+        "rating": " 4.29 avg rating — 878,747 ratings"
+      },
+      {
+        "id": 31,
+        "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "author": "Douglas Adams",
+        "rating": " 4.23 avg rating — 1,678,213 ratings"
+      },
+      {
+        "id": 32,
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "rating": " 4.47 avg rating — 2,505,139 ratings"
+      },
+      {
+        "id": 33,
+        "title": "Ender's Game (Ender's Saga, #1)",
+        "author": "Orson Scott Card",
+        "rating": " 4.30 avg rating — 1,273,462 ratings"
+      },
+      {
+        "id": 34,
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "rating": " 4.19 avg rating — 1,663,688 ratings"
+      },
+      {
+        "id": 35,
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "rating": " 3.88 avg rating — 2,289,589 ratings"
+      },
+      {
+        "id": 36,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "rating": " 4.01 avg rating — 1,115,677 ratings"
+      },
+      {
+        "id": 37,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "rating": " 3.90 avg rating — 2,637,426 ratings"
+      },
+      {
+        "id": 38,
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "rating": " 3.99 avg rating — 1,704,505 ratings"
+      },
+      {
+        "id": 39,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "rating": " 3.99 avg rating — 1,679,582 ratings"
+      },
+      {
+        "id": 40,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "rating": " 3.81 avg rating — 3,191,050 ratings"
+      },
+      {
+        "id": 41,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "rating": " 4.10 avg rating — 876,556 ratings"
+      },
+      {
+        "id": 42,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "rating": " 3.98 avg rating — 2,097,080 ratings"
+      },
+      {
+        "id": 43,
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "rating": " 4.41 avg rating — 1,367,824 ratings"
+      },
+      {
+        "id": 44,
+        "title": "The Princess Bride",
+        "author": "William Goldman",
+        "rating": " 4.26 avg rating — 852,720 ratings"
+      },
+      {
+        "id": 45,
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "rating": " 4.15 avg rating — 1,055,015 ratings"
+      },
+      {
+        "id": 46,
+        "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "author": "George R.R. Martin",
+        "rating": " 4.44 avg rating — 2,279,604 ratings"
+      },
+      {
+        "id": 47,
+        "title": "A Wrinkle in Time (Time Quintet, #1)",
+        "author": "Madeleine L'Engle",
+        "rating": " 3.99 avg rating — 1,131,952 ratings"
+      },
+      {
+        "id": 48,
+        "title": "The Outsiders",
+        "author": "S.E. Hinton",
+        "rating": " 4.11 avg rating — 1,160,921 ratings"
+      },
+      {
+        "id": 49,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "rating": " 3.79 avg rating — 981,018 ratings"
+      },
+      {
+        "id": 50,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "rating": " 3.83 avg rating — 1,220,651 ratings"
+      },
+      {
+        "id": 51,
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "rating": " 3.84 avg rating — 2,216,657 ratings"
+      },
+      {
+        "id": 52,
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "rating": " 4.23 avg rating — 935,105 ratings"
+      },
+      {
+        "id": 53,
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss",
+        "rating": " 4.30 avg rating — 713,546 ratings"
+      },
+      {
+        "id": 54,
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "rating": " 3.93 avg rating — 1,508,495 ratings"
+      },
+      {
+        "id": 55,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "rating": " 3.86 avg rating — 890,445 ratings"
+      },
+      {
+        "id": 56,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "rating": " 4.33 avg rating — 2,838,761 ratings"
+      },
+      {
+        "id": 57,
+        "title": "Frankenstein: The 1818 Text",
+        "author": "Mary Wollstonecraft Shelley",
+        "rating": " 3.84 avg rating — 1,389,115 ratings"
+      },
+      {
+        "id": 58,
+        "title": "The Handmaid's Tale (The Handmaid's Tale, #1)",
+        "author": "Margaret Atwood",
+        "rating": " 4.13 avg rating — 1,800,721 ratings"
+      },
+      {
+        "id": 59,
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "rating": " 4.13 avg rating — 1,993,738 ratings"
+      },
+      {
+        "id": 60,
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "rating": " 3.88 avg rating — 764,240 ratings"
+      },
+      {
+        "id": 61,
+        "title": "The Giver (The Giver, #1)",
+        "author": "Lois Lowry",
+        "rating": " 4.13 avg rating — 2,176,258 ratings"
+      },
+      {
+        "id": 62,
+        "title": "1984",
+        "author": "George Orwell",
+        "rating": " 4.19 avg rating — 3,965,115 ratings"
+      },
+      {
+        "id": 63,
+        "title": "Water for Elephants",
+        "author": "Sara Gruen",
+        "rating": " 4.10 avg rating — 1,520,723 ratings"
+      },
+      {
+        "id": 64,
+        "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+        "author": "J.K. Rowling",
+        "rating": " 4.62 avg rating — 3,330,765 ratings"
+      },
+      {
+        "id": 65,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut Jr.",
+        "rating": " 4.09 avg rating — 1,265,662 ratings"
+      },
+      {
+        "id": 66,
+        "title": "Dune (Dune, #1)",
+        "author": "Frank Herbert",
+        "rating": " 4.25 avg rating — 1,127,644 ratings"
+      },
+      {
+        "id": 67,
+        "title": "The Stand",
+        "author": "Stephen King",
+        "rating": " 4.34 avg rating — 702,261 ratings"
+      },
+      {
+        "id": 68,
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "rating": " 3.99 avg rating — 788,353 ratings"
+      },
+      {
+        "id": 69,
+        "title": "The Pillars of the Earth (Kingsbridge, #1)",
+        "author": "Ken Follett",
+        "rating": " 4.33 avg rating — 714,678 ratings"
+      },
+      {
+        "id": 70,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "rating": " 4.04 avg rating — 765,819 ratings"
+      },
+      {
+        "id": 71,
+        "title": "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",
+        "author": "Arthur Conan Doyle",
+        "rating": " 4.30 avg rating — 276,789 ratings"
+      },
+      {
+        "id": 72,
+        "title": "Matilda",
+        "author": "Roald Dahl",
+        "rating": " 4.33 avg rating — 824,840 ratings"
+      },
+      {
+        "id": 73,
+        "title": "Watership Down (Watership Down, #1)",
+        "author": "Richard Adams",
+        "rating": " 4.07 avg rating — 461,567 ratings"
+      },
+      {
+        "id": 74,
+        "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+        "author": "J.K. Rowling",
+        "rating": " 4.58 avg rating — 3,591,236 ratings"
+      },
+      {
+        "id": 75,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "rating": " 3.79 avg rating — 739,404 ratings"
+      },
+      {
+        "id": 76,
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "rating": " 4.24 avg rating — 557,623 ratings"
+      },
+      {
+        "id": 77,
+        "title": "Outlander (Outlander, #1)",
+        "author": "Diana Gabaldon",
+        "rating": " 4.25 avg rating — 958,189 ratings"
+      },
+      {
+        "id": 78,
+        "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+        "author": "Stieg Larsson",
+        "rating": " 4.16 avg rating — 2,958,051 ratings"
+      },
+      {
+        "id": 79,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "rating": " 4.20 avg rating — 690,055 ratings"
+      },
+      {
+        "id": 80,
+        "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "author": "J.R.R. Tolkien",
+        "rating": " 4.38 avg rating — 2,615,975 ratings"
+      },
+      {
+        "id": 81,
+        "title": "My Sister's Keeper",
+        "author": "Jodi Picoult",
+        "rating": " 4.09 avg rating — 1,149,513 ratings"
+      },
+      {
+        "id": 82,
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "rating": " 4.25 avg rating — 610,603 ratings"
+      },
+      {
+        "id": 83,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "rating": " 4.08 avg rating — 770,523 ratings"
+      },
+      {
+        "id": 84,
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty Smith",
+        "rating": " 4.28 avg rating — 430,458 ratings"
+      },
+      {
+        "id": 85,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "rating": " 4.35 avg rating — 286,876 ratings"
+      },
+      {
+        "id": 86,
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "rating": "really liked it\n 4.00 avg rating — 666,257 ratings"
+      },
+      {
+        "id": 87,
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "rating": " 3.98 avg rating — 812,229 ratings"
+      },
+      {
+        "id": 88,
+        "title": "Angela's Ashes (Frank McCourt, #1)",
+        "author": "Frank McCourt",
+        "rating": " 4.13 avg rating — 595,693 ratings"
+      },
+      {
+        "id": 89,
+        "title": "Vampire Academy (Vampire Academy, #1)",
+        "author": "Richelle Mead",
+        "rating": " 4.11 avg rating — 614,642 ratings"
+      },
+      {
+        "id": 90,
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "rating": " 4.05 avg rating — 690,002 ratings"
+      },
+      {
+        "id": 91,
+        "title": "The Golden Compass (His Dark Materials, #1)",
+        "author": "Philip Pullman",
+        "rating": " 4.01 avg rating — 1,430,661 ratings"
+      },
+      {
+        "id": 92,
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "rating": " 4.08 avg rating — 704,138 ratings"
+      },
+      {
+        "id": 93,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "rating": " 3.89 avg rating — 244,338 ratings"
+      },
+      {
+        "id": 94,
+        "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+        "author": "Anne Rice",
+        "rating": " 4.01 avg rating — 539,937 ratings"
+      },
+      {
+        "id": 95,
+        "title": "It",
+        "author": "Stephen King",
+        "rating": " 4.25 avg rating — 976,208 ratings"
+      },
+      {
+        "id": 96,
+        "title": "The Complete Stories and Poems",
+        "author": "Edgar Allan Poe",
+        "rating": " 4.38 avg rating — 239,564 ratings"
+      },
+      {
+        "id": 97,
+        "title": "The Shining",
+        "author": "Stephen King",
+        "rating": " 4.25 avg rating — 1,327,903 ratings"
+      },
+      {
+        "id": 98,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": " 4.27 avg rating — 5,434,434 ratings"
+      },
+      {
+        "id": 99,
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "rating": " 4.28 avg rating — 1,123,582 ratings"
+      },
+      {
+        "id": 100,
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "rating": " 3.79 avg rating — 1,007,945 ratings"
+      }
+    ]
+  }
+  
